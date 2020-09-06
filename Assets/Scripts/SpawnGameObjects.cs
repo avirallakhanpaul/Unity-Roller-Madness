@@ -5,7 +5,7 @@ public class SpawnGameObjects : MonoBehaviour {
 
 	public GameObject spawnPrefab;
 
-	public float minSecondsBetweenSpawning = 3.0f;
+	public float minSecondsBetweenSpawning = 2.0f;
 	public float maxSecondsBetweenSpawning = 6.0f;
 	
 	public Transform chaseTarget;
